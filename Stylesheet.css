@@ -20,15 +20,15 @@
 }
 
 .xbox .triggers {
-    width: 546px;
-    height: 151px;
+    width: 534px;
+    height: 180px;
     position: absolute;
-    left: 102px;
+    left: 108px;
 }
 
 .xbox .trigger {
     width: 88px;
-    height: 151px;
+    height: 180px;
     background: url(https://raw.githubusercontent.com/MicroBates/Streaming/main/trigger.svg);
     opacity: 0;
 }
