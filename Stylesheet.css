@@ -494,7 +494,7 @@ strong {
 }
 
 .xbox.white {
-    background: url(https://github.com/MicroBates/Streaming/blob/main/base-white.svg);
+    background: url(https://raw.githubusercontent.com/MicroBates/Streaming/main/base-white.svg);
 }
 
 .xbox.disconnected {
@@ -515,7 +515,7 @@ strong {
 .xbox .trigger {
     width: 88px;
     height: 121px;
-    background: url(https://github.com/MicroBates/Streaming/blob/main/trigger.svg);
+    background: url(https://raw.githubusercontent.com/MicroBates/Streaming/main/trigger.svg);
     opacity: 0;
 }
 
@@ -532,7 +532,7 @@ strong {
 .xbox .bumper {
     width: 170px;
     height: 61px;
-    background: url(https://github.com/MicroBates/Streaming/blob/main/bumper.svg);
+    background: url(https://raw.githubusercontent.com/MicroBates/Streaming/main/bumper.svg);
     opacity: 0;
 }
 
@@ -597,7 +597,7 @@ strong {
 }
 
 .xbox .back, .xbox .start {
-    background: url(https://github.com/MicroBates/Streaming/blob/main/start-select.svg);
+    background: url(https://raw.githubusercontent.com/MicroBates/Streaming/main/start-select.svg);
     width: 33px;
     height: 33px;
     opacity: 0;
@@ -626,7 +626,7 @@ strong {
 
 .xbox .button {
     position: absolute;
-    background: url(https://github.com/MicroBates/Streaming/blob/main/abxy.svg);
+    background: url(https://raw.githubusercontent.com/MicroBates/Streaming/main/abxy.svg);
     width: 48px;
     height: 48px;
 }
@@ -671,7 +671,7 @@ strong {
 
 .xbox .stick {
     position: absolute;
-    background: url(https://github.com/MicroBates/Streaming/blob/main/stick.svg);
+    background: url(https://raw.githubusercontent.com/MicroBates/Streaming/main/stick.svg);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
@@ -700,7 +700,7 @@ strong {
 }
 
 .xbox .face {
-    background: url(https://github.com/MicroBates/Streaming/blob/main/dpad.svg);
+    background: url(https://raw.githubusercontent.com/MicroBates/Streaming/main/dpad.svg);
     position: absolute;
     opacity: 0;
 }
